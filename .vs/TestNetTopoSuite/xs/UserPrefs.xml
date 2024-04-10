@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{28DE5C07-66AB-4B12-A0F3-E818FC02A7E3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestNetTopoSuite/ProjectionIdentity.cs">
+    <Files>
+      <File FileName="../EagleAerialCIIWater/EagleAerialCIIWater/Util/RouteConfig.cs" Line="30" Column="1" />
+      <File FileName="../EagleAerialCIIWater/EagleAerialCIIWater/Web.config" Line="99" Column="109" />
+      <File FileName="../EagleAerialCIIWater/EagleAerialCIIWater/View/WaterDistricts.aspx.cs" Line="16" Column="6" />
+      <File FileName="../EagleAerialCIIWater/EagleAerialCIIWater/View/WaterDistricts.aspx" Line="3164" Column="38" />
+      <File FileName="../EagleAerialCIIWater/EagleAerialCIIWater/Controller/QueryOperatorHandler.cs" Line="88" Column="18" />
+      <File FileName="../EagleAerialCIIWater/EagleAerialCIIWater/Controller/TileController.cs" Line="186" Column="35" />
+      <File FileName="../EagleAerialCIIWater/EagleAerialCIIWater/Controller/SearchHandler.cs" Line="202" Column="46" />
+      <File FileName="../EagleAerialCIIWater/EagleAerialCIIWater/Model/PremiseBoundariesModel.cs" Line="5" Column="18" />
+      <File FileName="../EagleAerialCIIWater/EagleAerialCIIWater/Util/U.cs" Line="107" Column="22" />
+      <File FileName="../EagleAerialCIIWater/EagleAerialCIIWater/Controller/ConsumptionDataController.cs" Line="149" Column="2" />
+      <File FileName="../EagleAerialCIIWater/EagleAerialCIIWater/Util/Path.cs" Line="70" Column="1" />
+      <File FileName="TestNetTopoSuite/Program.cs" Line="21" Column="1" />
+      <File FileName="TestNetTopoSuite/ShatamGeometry.cs" Line="124" Column="42" />
+      <File FileName="TestNetTopoSuite/TestJSON.cs" Line="9" Column="33" />
+      <File FileName="TestNetTopoSuite/TestFunctional.cs" Line="6" Column="48" />
+      <File FileName="TestNetTopoSuite/ShapeFileTest.cs" Line="28" Column="60" />
+      <File FileName="TestNetTopoSuite/ProjectionIdentity.cs" Line="59" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestNetTopoSuite" expanded="True">
+            <Node name="TestNetTopoSuite" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="ProjectionIdentity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestNetTopoSuite PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
